@@ -21,13 +21,14 @@ The following list of colours are unordered:
 
 The following ordered list of colours are ordered:
 
-1 Black
-4 Brown
-3 Red
-6 Orange
-9 Yellow
-8 Green
-2 Blue
-5 Violet
-7 Grey
-10 White
+1. Black
+4. Brown
+3. Red
+6. Orange
+9. Yellow
+8. Green
+2. Blue
+5. Violet
+7. Grey
+10. White
+
