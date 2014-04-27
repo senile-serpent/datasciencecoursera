@@ -25,6 +25,9 @@ The following ordered list of colours are ordered:
 4. Brown
 3. Red
 6. Orange
+    1. Light blue
+    3. Mauve
+    2. Burgundy
 9. Yellow
 8. Green
 2. Blue
