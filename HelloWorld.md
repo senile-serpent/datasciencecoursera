@@ -6,7 +6,7 @@ ___
 
 ### Level Three Headings use a smaller font.
 
->>>
+>>>>>>
 
 The following list of colours are unordered:
 
@@ -21,7 +21,7 @@ The following list of colours are unordered:
 * Grey
 * White
 
-----
+---------
 
 The following list of colours are ordered:
 
