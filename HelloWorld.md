@@ -23,7 +23,7 @@ The following list of colours are unordered:
 
 ----
 
-The following ordered list of colours are ordered:
+The following list of colours are ordered:
 
 1. Black
 4. Brown
