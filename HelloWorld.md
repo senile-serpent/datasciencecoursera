@@ -19,9 +19,9 @@ The following list of colours are unordered:
 * Grey
 * White
 
-The following ordered list contains the *colours of resistors* and the power of 10 associated with each colour
+The following ordered list of colours are ordered:
 
-0 Black
+1 Black
 - Brown
 - Red
 - Orange
